@@ -31,3 +31,31 @@ Algorithms used for Stock Prediction are
 
 ### Stored User Activity in Database
 ![user_activity_stored](./screenshots/user_activity_stored.png)
+
+Data
+We have used yfinance to get the stock information, and visualized different aspects of it using Seaborn and Matplotlib.
+
+Tech Stack/Frameworks
+Data Cleaning: NumPy, Pandas
+
+Visualization: Matplotlib, Seaborn
+
+Deep Learning Models: Long Short Term Memory (LSTM)
+
+Contributions
+Contributions to this project are welcome! If you have any suggestions, improvements, or new features to add, please open an issue or submit a pull request.
+
+Acknowledgements
+This project makes use of the following open-source libraries and frameworks:
+
+Pandas: https://pandas.pydata.org/
+
+NumPy: https://numpy.org/
+
+Matplotlib: https://matplotlib.org/
+
+Seaborn: https://seaborn.pydata.org/
+
+Keras: https://keras.io/
+
+We would like to express our gratitude to the developers of these tools for their invaluable contributions to the open-source community.
